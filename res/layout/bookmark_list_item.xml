@@ -25,7 +25,7 @@
         android:layout_alignParentBottom="true"
         android:singleLine="true"
         android:ellipsize="marquee"
-        android:text="Path meta" />
+        android:text="@string/path_meta" />
 
     <TextView
         android:layout_width="fill_parent"

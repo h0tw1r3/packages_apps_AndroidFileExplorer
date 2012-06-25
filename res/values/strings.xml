@@ -12,6 +12,9 @@
 	<string name="eula_accept">I accept</string>
 	<string name="eula_decline">Decline</string>
 
+	<string name="path_meta">Path meta</string>
+	<string name="empty"></string>
+
 	<string name="action_rename">Rename</string>
 	<string name="action_rescan">Rescan Media</string>
 	<string name="action_delete">Delete</string>
